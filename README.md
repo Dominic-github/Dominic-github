@@ -22,7 +22,7 @@
 
 > 📊 **I Spent My Time On:**
 
-[![Dominic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dominic-github&layout=compact&theme=aura)](https://github.com/Dominic-github)
+[![Dominic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dominic&layout=compact&theme=aura)](https://github.com/Dominic-github)
 
 > 📈 **My GitHub Stats:**
 

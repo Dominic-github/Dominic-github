@@ -1,9 +1,8 @@
 ## Hi there! I'm Tan Hoang (Dominic). <img src="https://github.com/Dominic-github/Dominic-github/blob/main/Gif/handwave.gif" width="25">
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dominic.sn.fb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frey1a/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Frey1aaa)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@frey1a)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-in/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Dominic_twi)
 
 #### Dominic to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Dominic-github&color=4b4394)](https://github.com/Dominic-github)
 
@@ -18,7 +17,7 @@
 - ❤️ I really love music, especially symphonies
 - 💬 Ask me about anything [here](https://github.com/Domin1c-Technology/Domin1c-Technology/issues)
 
-### <img align="center" alt="GIF" src="https://github.com/Dominic-github/Dominic-github/blob/main/Gif/nyan(nobackground).gif" width="100"/> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frey1a)
+### <img align="center" alt="GIF" src="https://github.com/Dominic-github/Dominic-github/blob/main/Gif/nyan(nobackground).gif" width="100"/> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dominic_kofi)
 
 > 📊 **I Spent My Time On:**
 

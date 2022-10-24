@@ -1,6 +1,6 @@
 ## Hi there! I'm Tan Hoang (Dominic). <img src="https://github.com/Dominic-github/Dominic-github/blob/main/Gif/handwave.gif" width="25">
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dominic.sn.fb)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dominic.facebook)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-in/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Dominic_twi)
 

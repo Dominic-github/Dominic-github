@@ -1,8 +1,9 @@
 ## Hi there! I'm Tan Hoang (Dominic). <img src="https://github.com/Dominic-github/Dominic-github/blob/main/Gif/handwave.gif" width="25">
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dominic.facebook)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-in/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/dominic.faceb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-linked/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Dominic_twi)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-00acee?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@dominic-yt)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-29a9eb?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Dominic_tg)
 [![Zalo Badge](https://img.shields.io/badge/-Zalo-0068ff?style=flat-square&logo=Zalo&logoColor=white)](https://zalo.me/0336019527)
 

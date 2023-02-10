@@ -6,6 +6,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@dominic-yt)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-29a9eb?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Dominic_tg)
 [![Zalo Badge](https://img.shields.io/badge/-Zalo-0068ff?style=flat-square&logo=Zalo&logoColor=white)](https://zalo.me/0336019527)
+[![Kofi Badge](https://img.shields.io/badge/-Kofi-ff5f5f?style=flat-square&logo=Kofi&logoColor=white)](https://ko-fi.com/dominic_kofi)
+[![Kofi Badge](https://img.shields.io/badge/-Patreon-ffffff?style=flat-square&logo=Patreon&logoColor=ff424d)](https://www.patreon.com/user?u=57078534)
+
 
 #### Dominic to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Dominic-github&color=4b4394)](https://github.com/Dominic-github)
 
